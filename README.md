@@ -1,2 +1,11 @@
-# social-media-marketing.
-"Welcome to our Social Media Marketing Master Classes landing page! Join us for free and unlock the secrets of effective social media marketing strategies. 
+ SocialMediaMarketing/
+│
+├── css/
+│   └── styles.css
+│
+├── images/ (optional, if you plan to use any images)
+│   └── (your image files)
+│
+├── index.html
+└── thank-you.html
+
